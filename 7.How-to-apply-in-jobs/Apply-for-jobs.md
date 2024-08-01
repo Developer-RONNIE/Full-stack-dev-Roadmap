@@ -19,6 +19,8 @@
 
 ## Step 1: Target Companies & Build Network with them 
 
+> Follow these guidelines to create and expand your personal network
+
 #### Step 1.1 : 
 - Choose 25-50 comapnies you would like to work with from the list. 
 #### Step 1.2 : 
@@ -26,3 +28,5 @@
 
 
 ## Step 2: Build in Public 
+
+> Get noticed by companies by following these guidelines
