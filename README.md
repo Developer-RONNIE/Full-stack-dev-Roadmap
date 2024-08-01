@@ -14,7 +14,7 @@ The indicators represents the difficulty level of the topic for web developement
 :green_square: Easy 
 :orange_square: Intermediate 
 :red_square: Advance
-<br>
+</p>
 
 |  #  |      Topic       |   Roadmap   |    Difficulty |                  
 |-----|------------------|-------------|---------------|
@@ -26,5 +26,5 @@ The indicators represents the difficulty level of the topic for web developement
 |6|MySQL|[Link]()|:orange_square: Intermediate | 
 |7|Next.js|[Link]()|:red_square: Advance | 
 |8|Apply for Jobs|[Link]()|:orange_square: Easy| 
-</p>
+
 
