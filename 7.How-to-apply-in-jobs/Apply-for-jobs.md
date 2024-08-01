@@ -4,7 +4,7 @@
 
 > Students often know only a few top companies like FAANGM, but a wide range of other companies offer similar salary ranges for developers. Use these guidelines to position yourself effectively for opportunities with these companies
 
-# List of Top Paying Companies 
+## List of Top Paying Companies 
 > Checkout the list of other top companies. Click on the button ! 
 
 <p align="center">
@@ -17,10 +17,12 @@
 </p>
 
 
-# Step 1: Target Companies & Build Network with them 
+## Step 1: Target Companies & Build Network with them 
 
-- Step 1.1 : Choose 25-50 comapnies you would like to work with from the list. 
-- Step 1.2 : Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the companies you're interested in.
+#### Step 1.1 : 
+- Choose 25-50 comapnies you would like to work with from the list. 
+#### Step 1.2 : 
+- Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the companies you're interested in.
 
 
-# Step 2: Build in Public 
+## Step 2: Build in Public 
