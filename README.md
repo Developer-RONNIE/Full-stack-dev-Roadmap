@@ -6,7 +6,7 @@ This section introduces the roadmaps and provides an overview of the content.
 
 # Content Table 
 
-<p align = "center ">
+<p style="text-align: center;>
 
 The indicators represents the difficulty level of the topic for web developement 
 <br>
