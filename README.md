@@ -4,18 +4,13 @@
 
 <p align="center">
   <a name="logo">
-    <img src=# alt="Fullstack Guide" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Copy%20of%20Leetcode%20Banner%20.png" alt="Fullstack Guide" width="750">
   </a>
 </p>
 
 > This section introduces the roadmaps and provides an overview of the content.
 
 <h4 align="center">Make sure to drop a ⭐ so you can keep up to date on any daily progress!</h4>
-
-
-<p align="center">
-    Welcome to the Complete Full Stack Development Course - MERN & Beyond! This repository is your ultimate guide to mastering full stack development using the MERN stack along with other cutting-edge technologies. 
-</p>
 
 <p align="center">
     Whether you're a beginner aiming to build your first full stack application or an experienced developer looking to expand your skills, this course provides in-depth coverage of essential topics and modern practices needed to excel in today’s tech industry.
