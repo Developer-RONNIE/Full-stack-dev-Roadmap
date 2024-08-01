@@ -6,15 +6,13 @@ This section introduces the roadmaps and provides an overview of the content.
 
 # Content Table 
 
-<p style="text-align: center;>
-
-The indicators represents the difficulty level of the topic for web developement 
+> The indicators represents the difficulty level of the topic for web developement 
 <br>
 
 :green_square: Easy 
 :orange_square: Intermediate 
 :red_square: Advance
-</p>
+
 
 |  #  |      Topic       |   Roadmap   |    Difficulty |                  
 |-----|------------------|-------------|---------------|
