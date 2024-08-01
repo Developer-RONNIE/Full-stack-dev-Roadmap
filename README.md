@@ -6,33 +6,19 @@ This section introduces the roadmaps and provides an overview of the content.
 
 # Content Table 
 
-<details><summary>HTML</summary>
-   <p style="padding-left: 30px;">
-    - Content for HTML <br>
-    - Topic 1
-    </p>
-</details>
-<details><summary>CSS</summary>
-  - Content for CSS
-  </details>
-<details><summary>Git</summary>
-  - Content for Git
-  </details>
-<details><summary>JavaScript</summary>
-  - Content for JavaScript
-  </details>
-<details><summary>React</summary>
-  - Content for React
-  </details>
-<details><summary>Tailwind</summary>
-  - Content for Tailwind
-  </details>
-<details><summary>Backend</summary>
-  - Content for Backend
-  </details>
-<details><summary>Next.js</summary>
-  - Content for Next.js
-  </details>
-<details><summary>How to Apply for Jobs</summary>
-  - Content for How to Apply for Jobs
-  </details>
+:green_square: Easy 
+:orange_square: Intermediate 
+:red_square: Advance
+
+|  #  |      Topic       |   Roadmap   |    Difficulty |                  
+|-----|------------------|-------------|---------------|
+|1|Git| [Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/01.git/Git_Roadmap.md)|:orange_square: Intermediate|
+|2|CSS|[Link]()|:green_square: Easy | 
+|3|JavaScript|[Link]()|:orange_square: Intermediate | 
+|4|React|[Link]()|:orange_square: Intermediate | 
+|5|Backend|[Link]()|:red_square: Advance | 
+|6|MySQL|[Link]()|:orange_square: Intermediate | 
+|7|Next.js|[Link]()|:red_square: Advance | 
+|8|Apply for Jobs|[Link]()|:orange_square: Easy| 
+
+
