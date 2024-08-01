@@ -50,8 +50,6 @@
 
 <p align = "center">Let me know your views on the repository or any changes or improvements at </p>
 
-[LinkedIn](https://www.linkedin.com/in/alapan-banerjee/), [Telegram](https://telegram.me/DeveloperRONNIE)
-
 <p align = "center">
     <a href="https://telegram.me/DeveloperRONNIE" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/telegram.png" alt="telegram" width="60"/></a>
     <a href="https://x.com/ronnie002_" target="_blank"><img src="https://github.com/Developer-RONNIE/complete-leetcode-solutions/blob/main/assets/twitter-x-logo.png" alt="X" width="60"/></a>
