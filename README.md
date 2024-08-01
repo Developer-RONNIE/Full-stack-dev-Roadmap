@@ -7,10 +7,10 @@ This section introduces the roadmaps and provides an overview of the content.
 # Content Table 
 
 <details><summary>HTML</summary>
-   <div style="padding-left: 30px;">
+   <p style="padding-left: 30px;">
     - Content for HTML <br>
     - Topic 1
-    </div>
+    </p>
 </details>
 <details><summary>CSS</summary>
   - Content for CSS
