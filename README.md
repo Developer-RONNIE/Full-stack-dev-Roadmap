@@ -3,10 +3,11 @@ Roadmaps for full stack development covering HTML, CSS, Git, JavaScript, React, 
 
 
 # Content Table 
-- [ ] Introduction
+<details><summary>Git</summary>
+  Content for Introduction
+</details>
 - [ ] HTML
 - [ ] CSS
-- [ ] Git
 - [ ] JavaScript
 - [ ] React
 - [ ] Backend
