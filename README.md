@@ -7,8 +7,8 @@ This section introduces the roadmaps and provides an overview of the content.
 # Content Table 
 
 <details><summary>HTML</summary>
-  <p>
-   - Content for HTML
+  <p align="center">
+   - Content for HTML <br>
    - topic 1 
   </p>
   </details>
