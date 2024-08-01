@@ -16,6 +16,7 @@
 
 # Contents to Cover 
 > Ensure you have a solid understanding of these concepts, as they are crucial for project development. Feel free to return and review them as needed.
+
 |  #  |      Topics       |   Resource   | 
 |-----|---------------------|----------------|
 |1 |Git and Github| [Link](https://docs.chaicode.com/git-and-github/)|
