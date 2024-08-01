@@ -7,29 +7,29 @@ This section introduces the roadmaps and provides an overview of the content.
 # Content Table 
 
 <details><summary>HTML</summary>
-  - [ ] Content for HTML
+  - Content for HTML
   </details>
 <details><summary>CSS</summary>
-  - [ ] Content for CSS
+  - Content for CSS
   </details>
 <details><summary>Git</summary>
-  - [ ] Content for Git
+  - Content for Git
   </details>
 <details><summary>JavaScript</summary>
-  - [ ] Content for JavaScript
+  - Content for JavaScript
   </details>
 <details><summary>React</summary>
-  - [ ] Content for React
+  - Content for React
   </details>
 <details><summary>Tailwind</summary>
-  - [ ] Content for Tailwind
+  - Content for Tailwind
   </details>
 <details><summary>Backend</summary>
-  - [ ] Content for Backend
+  - Content for Backend
   </details>
 <details><summary>Next.js</summary>
-  - [ ] Content for Next.js
+  - Content for Next.js
   </details>
 <details><summary>How to Apply for Jobs</summary>
-  - [ ] Content for How to Apply for Jobs
+  - Content for How to Apply for Jobs
   </details>
