@@ -1,14 +1,23 @@
 <h1 align="center">
-    Welcome to Structured FullStack Web Dev Guide  | Java ☕
+    Welcome to Structured FullStack Web Dev Guide ☕
 </h1>
+
+<p align="center">
+  <a name="logo">
+    <img src=# alt="Fullstack Guide" width="750">
+  </a>
+</p>
 
 > This section introduces the roadmaps and provides an overview of the content.
 
 <h4 align="center">Make sure to drop a ⭐ so you can keep up to date on any daily progress!</h4>
 
+
 <p align="center">
     Welcome to the Complete Full Stack Development Course - MERN & Beyond! This repository is your ultimate guide to mastering full stack development using the MERN stack along with other cutting-edge technologies. 
-    <br>
+</p>
+
+<p align="center">
     Whether you're a beginner aiming to build your first full stack application or an experienced developer looking to expand your skills, this course provides in-depth coverage of essential topics and modern practices needed to excel in today’s tech industry.
 </p>
 
@@ -44,7 +53,8 @@
     Connect With Me 
 </h2>
 
-Let me know your views on the repository or any changes or improvements at 
+<p align = "center">Let me know your views on the repository or any changes or improvements at </p>
+
 [LinkedIn](https://www.linkedin.com/in/alapan-banerjee/), [Telegram](https://telegram.me/DeveloperRONNIE)
 
 <p align = "center">
