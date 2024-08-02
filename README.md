@@ -32,13 +32,14 @@
 |  #  |      Topic       |   Roadmap   |    Difficulty |                  
 |-----|------------------|-------------|---------------|
 |1|Git| [Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/01.git/Git_Roadmap.md)|:orange_square: Intermediate|
-|2|CSS|[Link]()|:green_square: Easy | 
-|3|JavaScript|[Link]()|:orange_square: Intermediate | 
-|4|React|[Link]()|:orange_square: Intermediate | 
-|5|Backend|[Link]()|:red_square: Advance | 
-|6|MySQL|[Link]()|:orange_square: Intermediate | 
-|7|Next.js|[Link]()|:red_square: Advance | 
-|8|Apply for Jobs|[Link]()|:orange_square: Easy| 
+|2|HTML|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/02.HTML/HTML_%20Roadmap.md)|:green_square: Easy | 
+|3|CSS|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/03.CSS/CSS_Roadmap.md)|:green_square: Easy | 
+|4|JavaScript|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/04.JavaScript/JS_Roadmap.md)|:orange_square: Intermediate | 
+|5|React|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/5.React/React_Roadmap.md)|:orange_square: Intermediate | 
+|6|Backend|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/6.backend/Backend_Roadmap.md)|:red_square: Advance | 
+|7|MySQL|[Link]()|:orange_square: Intermediate | 
+|8|Next.js|[Link]()|:red_square: Advance | 
+|9|Apply for Jobs|[Link](https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/7.How-to-apply-in-jobs/Apply-for-jobs.md)|:orange_square: Requires Time| 
 
 
 
