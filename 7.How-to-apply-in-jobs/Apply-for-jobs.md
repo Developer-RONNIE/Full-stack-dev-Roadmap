@@ -25,14 +25,15 @@
 - Choose 25-50 companies you would like to work with from the list. 
 <p align="center">
   <a name="logo">
-    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Copy%20of%20Leetcode%20Banner%20.png" alt="Fullstack Guide" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Select.company.png" alt="Select Companies" width="750">
   </a>
 </p>
 #### Step 1.2 : 
 - Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the exact companies you're interested in.
+
 <p align="center">
   <a name="logo">
-    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Copy%20of%20Leetcode%20Banner%20.png" alt="Fullstack Guide" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/search%20comapny.png" alt="Search company guide" width="750">
   </a>
 </p>
 - 
