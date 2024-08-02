@@ -16,7 +16,7 @@
     </a>  
 </p>
 
----
+
 
 
 ## Step 1: Target Companies & Build Network with them 
@@ -45,13 +45,13 @@
 
 <p align="center">
   <a name="logo">
-    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/search%20company.png" alt="Search company guide" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/current-hiring.png" alt="Search company guide" width="750">
   </a>
 </p>
 
 
 
---- 
+
 
 
 ## Step 2: Build in Public 
