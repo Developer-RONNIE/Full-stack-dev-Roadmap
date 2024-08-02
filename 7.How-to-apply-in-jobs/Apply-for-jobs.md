@@ -16,6 +16,8 @@
     </a>  
 </p>
 
+---
+
 
 ## Step 1: Target Companies & Build Network with them 
 
@@ -28,15 +30,28 @@
     <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Select.company.png" alt="Select Companies" width="750">
   </a>
 </p>
+
 #### Step 1.2 : 
 - Head over to <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> and find the pages for the exact companies you're interested in.
 
 <p align="center">
   <a name="logo">
-    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/search%20comapny.png" alt="Search company guide" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/search%20company.png" alt="Search company guide" width="750">
   </a>
 </p>
-- 
+
+#### Step 1.3 : 
+- Visit the company's page, follow it, and then navigate to the jobs section.
+
+<p align="center">
+  <a name="logo">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/search%20company.png" alt="Search company guide" width="750">
+  </a>
+</p>
+
+
+
+--- 
 
 
 ## Step 2: Build in Public 
