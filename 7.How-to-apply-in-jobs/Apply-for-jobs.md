@@ -29,7 +29,7 @@
   </a>
 </p>
 #### Step 1.2 : 
-- Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the exact companies you're interested in.
+- Head over to <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> and find the pages for the exact companies you're interested in.
 
 <p align="center">
   <a name="logo">
