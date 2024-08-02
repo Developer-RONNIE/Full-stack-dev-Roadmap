@@ -56,12 +56,12 @@
 
 <p align="center">
   <a name="logo">
-    <img src="#" alt="Connecting with employee" width="750">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/connect-employee.png" alt="Connecting with employee" width="750">
   </a>
 </p>
 
-
-
+#### Step 1.5 : 
+- Remember to send a follow-up message to remind the person about your application.
 
 
 
