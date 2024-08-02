@@ -49,6 +49,17 @@
   </a>
 </p>
 
+#### Step 1.4 : 
+- After submitting your application, establish connections with current employees and inform them of your application. 
+- Politely request a referral to support your candidacy.
+- KEYWORDS : HR, Recruiter, Hiring, (Your Techstack)
+
+<p align="center">
+  <a name="logo">
+    <img src="#" alt="Connecting with employee" width="750">
+  </a>
+</p>
+
 
 
 
