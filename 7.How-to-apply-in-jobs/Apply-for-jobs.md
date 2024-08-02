@@ -22,9 +22,20 @@
 > Follow these guidelines to create and expand your personal network
 
 #### Step 1.1 : 
-- Choose 25-50 comapnies you would like to work with from the list. 
+- Choose 25-50 companies you would like to work with from the list. 
+<p align="center">
+  <a name="logo">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Copy%20of%20Leetcode%20Banner%20.png" alt="Fullstack Guide" width="750">
+  </a>
+</p>
 #### Step 1.2 : 
-- Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the companies you're interested in.
+- Head over to [LinkedIn](https://www.linkedin.com/) and find the pages for the exact companies you're interested in.
+<p align="center">
+  <a name="logo">
+    <img src="https://github.com/Developer-RONNIE/Full-stack-dev-Roadmap/blob/main/assets/Copy%20of%20Leetcode%20Banner%20.png" alt="Fullstack Guide" width="750">
+  </a>
+</p>
+- 
 
 
 ## Step 2: Build in Public 
