@@ -1,5 +1,5 @@
 <h1 align="center">
-    Git Roadmap 
+    Git Roadmap 🚩
 </h1>
 
 > Access a well-organized selection of educational content, including videos and blog posts, to fully grasp Git and GitHub. This guide is designed to equip you with the tools and knowledge needed for efficient version control and project management.

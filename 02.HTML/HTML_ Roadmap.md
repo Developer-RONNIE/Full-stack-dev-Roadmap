@@ -1,5 +1,5 @@
 <h1 align="center">
-    HTML Roadmap 
+    HTML Roadmap 🚩
 </h1>
 
 > This guide is designed to equip you with the tools and knowledge needed for proficient HTML development and effective web page structuring.
