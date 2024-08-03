@@ -10,12 +10,13 @@
 
 |  #  |      Langauge       |   Resource   |  
 |-----|---------------------|----------------|
-|1| Hindi | [Video](https://www.youtube.com/watch?v=iVCzmDwIQpA&t=973s) |
-|2| English |  [Video](https://www.youtube.com/watch?v=qz0aGYrrlhU) |
+|1| Hindi | [Video](https://www.youtube.com/watch?v=iVCzmDwIQpA&t=973s)|
+|2| English |  [Video](https://www.youtube.com/watch?v=qz0aGYrrlhU)|
 
 
 # Cheatsheets 
 > It is to summarize & save your time. 
+
 |  #  |      Cheatsheets       |   Resource   |  
 |-----|---------------------|----------------|
 |1| Geeksforgeeks | [Link](https://www.geeksforgeeks.org/html-cheat-sheet/) |
