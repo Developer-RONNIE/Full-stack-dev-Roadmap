@@ -10,8 +10,8 @@
 
 |  #  |      Langauge       |   Resource   |  
 |-----|---------------------|----------------|
-|1| Hindi | [Video](https://www.youtube.com/watch?v=iVCzmDwIQpA&t=973s)|
-|2| English |  [Video](https://www.youtube.com/watch?v=K1naz9wBwKU)|
+|1| Hindi | [Video](https://www.youtube.com/watch?v=K1naz9wBwKU)|
+|2| English |  [Video](https://www.youtube.com/watch?v=wRNinF7YQqQ&t=21s)|
 
 
 # Cheatsheets 
